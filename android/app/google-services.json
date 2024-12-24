@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34599363581",
+    "project_id": "winged-quanta-443612-i7",
+    "storage_bucket": "winged-quanta-443612-i7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34599363581:android:5dd895a6fef8878b6bef94",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8e-KwmxPs295ABKph_GvfYczqKp5DGHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
